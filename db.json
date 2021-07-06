@@ -1,0 +1,11 @@
+{
+    "livros": [
+         {
+            "_id": 1,
+            "titulo": "PrograMaria",
+            "descricao": "O livro não é dividido em capítulos. A poesia de Tatiana Nascimento traz diversidade temática, riqueza semântica, construções e neologismos que conferem identidade a seus poemas. Dinâmico e inovador, o conjunto de poesias é uma compilação de versos escritos entre 2009 e 2015 e, assim, carrega imensa diversidade.Esteticamente o livro combina seus conteúdos da seguinte maneira: os versos são chamados a uma luta ancestral que perdura na superfície do povo negro, e os poemas clamam por atitudes.",
+            "capa": "https://www.geledes.org.br/wp-content/uploads/2018/08/lundu.jpeg",
+            "autora":"Tatiana Nascimento",
+            "siteCompra": "https://docs.google.com/spreadsheets/d/1ufvy_3DgIs4XuIdGI4yL0FTud59rGOHo/edit#gid=495375947"
+            
+        },
