@@ -144,45 +144,4 @@
             "site": "https://www.stemparaminas.com/",
             "linkedin":"https://www.linkedin.com/company/stemparaminas/"
           },
-         {
-            "_id": 19,
-            "titulo": "ElasProgramam",
-            "descricao": "A engenheira Silvia Coelho criou a Elas Programam em 2017 com o objetivo de aumentar a participação de mulheres no mercado de tecnologia, que hoje representam apenas 20% dos profissionais desse setor. Trabalhamos os pilares de inspiração, senso de pertencimento e protagonismo com o objetivo de encorajar as mulheres a enfrentarem os estereótipos culturais de que tecnologia não é carreira para elas. Promovemos representatividade, conscientização do mercado e aceleração de carreira através de uma comunidade forte e engajada que hoje conta com mais de 17 mil seguidoras no instagram e 7800 participantes no grupo do facebook.Elas Programam conecta talentos femininos de tech a empresas e iniciativas que colaboram para o crescimento dos números de ocupação feminina e ajudam a contar histórias de sucesso nesse meio.Para mulheres que estão em busca de recolocação ou em processo de transição de carreira, oferecemos mentorias e orientação profissional, além de um ambiente seguro e acolhedor para troca de experiências.,
-             "missao": "Aumentar a presença de mulheres na tecnologia."
-            "site: "https://elasprogramam.com.br/#/",
-            "linkedin":"https://www.linkedin.com/company/elasprogramam/"
-          },
-          {
-            "_id": 20
-            "titulo":  "PodProgramar",
-            "descricao": "O PodProgramar é um podcast apresentado por Jessi Zanelato e Ana Eliza, desenvolvedoras, focado em programação, notícias e histórias da área, tudo com o toque feminino numa área dominada por homens.",
-             "missao": null,
-            "site": "https://podprogramar.com.br/",
-            "linkedin":"https://www.linkedin.com/company/podprogramar/"
-          },
-         {
-            "_id": 21
-            "titulo": "StartCoding",
-            "descricao": "Start Coding é uma iniciativa que tem como objetivo inserir mulheres no setor da tecnologia e apoiar as que já estão, empoderando-as e oferecendo mais oportunidades de conhecimento.,
-            "missao: null
-            "site: null
-            "linkedin": "https://www.linkedin.com/company/start-coding/"
-          },
-         {
-            "_id: 22
-            "titulo": "ADA - Todas na Avanade",
-            "descricao": "O ADA - Todas na Avanade é um movimento da mudança que queremos: mais mulheres na tecnologia, abrindo portas e mudando o mundo. Um programa inteiro dedicado a recrutar e dar oportunidade para que mulheres - sem distinção de origem social, étnico racial, pessoas com deficiência, crenças e religiões, identidade de gênero, diferentes gerações ou orientação sexual - tenham seu espaço e avancem cada vez mais.",
-             "missao": null
-            "site": "https://careers.avanade.com/jobsptbr/JobDetail/ADA-Todas-na-Avanade/26595",
-            "linkedin":"https://www.linkedin.com/company/avanade/"
-          },
-        {
-            "_id": 23
-            "titulo": "Meninas em Tech",
-            "descricao": "Meninas in Tech faz parte da ONG Fly Educação e busca aumentar o número de mulheres no mercado da tecnologia. O programa combina a capacitação em tecnologia com educação socioemocional e de soft skills. As aulas consistem em encontros onlines durante 4 meses e é preciso ter no mínimo 15 horas semanais direcionadas ao curso. Para participar, é necessário ter disponibilidade de frequentar as aulas e treinamentos às terças a noite, ou sábados de manhã. O curso é composto por: Aulas Socioemocionais ao vivo, Aulas de mercado ao vivo, Curso Tecnológico pela plataforma Alura e Mentorias para acompanhamento.",
-            "missao": "Aumentar o número de mulheres no mercado de tecnologia.",
-            "site": "https://www.flyeducacao.org/girls-in-tech",
-            "linkedin": null
-          }        
-        ]
-}
+        
