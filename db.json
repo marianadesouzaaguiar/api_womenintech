@@ -3,177 +3,186 @@
          {
             "_id": 1,
             "titulo": "PrograMaria",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "descricao": "Para uma menina, o desafio de programar se inicia antes mesmo da tentativa de aprender. Faltam exemplos que inspirem e sobram preconceitos e estereótipos que desestimulam e reforçam a idéia de que a tecnologia é um campo masculino. Não se trata de falta de interesse ou de habilidade, a PrograMaria acredita que é preciso rever essas narrativas culturais que dizem o que a mulher pode ou não fazer, além de oferecer ferramentas e oportunidades para que elas aprendam.",
+            "missao": "Empoderar meninas e mulheres por meio da tecnologia.",
             "site": "https://www.programaria.org/",
             "linkedin":"https://www.linkedin.com/company/programaria.org/"
           },
          {
             "_id": 2,
             "titulo": "Reprograma",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "descricao": "A {reprograma} é uma iniciativa de impacto social que foca em ensinar programação para mulheres cis e trans que não têm recursos e/ou oportunidades para aprender a programar.",
+             "missao": "Reduzindo o gap de gênero no setor de tecnologia por meio da educação.",
+            "site": "https://reprograma.com.br/",
+            "linkedin":"https://www.linkedin.com/company/reprogramabr/"
           },
          {
             "_id": 3,
             "titulo": "Instituto Rede Mulher Empreendedora",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "descricao": "A primeira e maior rede de apoio ao empreendedorismo feminino do Brasil. Priorizamos a integração, capacitação e troca de conhecimento entre mulheres que possuem ou buscam o próprio negócio, espalhadas por todo o país.",
+             "missao": "Nossa equipe acredita que quando uma mulher é empoderada financeiramente, ela não muda só a realidade de sua família, mas também a da sociedade. Quando a mulher têm negócios que dão certo, elas investem em suas comunidades para que haja um contínuo desenvolvimento e tratam seus públicos de interesse como uma família estendida, pois acreditam no poder colaborativo para melhorar o mundo.",
+            "site": "https://institutorme.org.br/",
+            "linkedin":null
           },
          {
             "_id": 4,
-            "titulo": "Meninas Super Cientistas",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "titulo": "Meninas SuperCientistas",
+            "descricao": "O Meninas SuperCientistas nasceu de uma iniciativa de alunas da Unicamp, com o objetivo de incentivar meninas a seguirem carreira na área de ciência. O evento é organizado por alunas, funcionárias e professoras da universidade desde 2019, e realiza atividades para 65 alunas do ensino fundamental II de escolas públicas e privadas (45 e 20 vagas, respectivamente), guiadas por cientistas mulheres. Desta forma, as meninas podem ter exemplos da atuação de mulheres na ciência e encontrarem modelos nos quais elas possam se inspirar e tomar como incentivo.",
+            "missao": "O Meninas SuperCientistas é um projeto para incentivar meninas a seguirem carreira na área de ciência. A primeira edição aconteceu no mês de julho de 2019 e foi um verdadeiro sucesso!",
+            "site": "https://www.ime.unicamp.br/meninassupercientistas/",
+            "linkedin": null
           },
          {
             "_id": 5,
             "titulo": "Laboratoria",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "descricao": "Formação de mulheres e preparação de organizações na construção de uma economia digital mais diversa, inclusiva e competitiva em toda América Latina. Organização social que está em constante evolução para maximizar nosso impacto na sociedade. Acreditamos que é possível transformar vidas e construir um futuro melhor por meio de mais mulheres na tecnologia. ",
+             "missao": "A Laboratória existe para impulsionar uma economia digital que dê oportunidades para todas as pessoas igualmente.",
+            "site": "https://www.laboratoria.la/br",
+            "linkedin":"https://www.linkedin.com/school/laboratoria/"
           },
          {
             "_id": 6,
             "titulo": "Minas Programam",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "descricao": "O Minas Programam foi fundado em 2015 por Ariane Cor, Fernanda Balbino e Bárbara Paes. O projeto surgiu da vontade de desconstruir estereótipos de gênero e de raça que influenciam nossa relação com as áreas de ciências, tecnologia e computação. Oferecemos oportunidades de aprendizado sobre programação para meninas e mulheres que querem aprender a programar, mas não sabem por onde começar.",
+            "missao": "O Minas Programam é uma iniciativa criada em 2015 para desafiar os estereótipos de gênero e de raça que influenciam nossa relação com as áreas de ciências, tecnologia e computação. Promovemos oportunidades de aprendizado sobre programação para meninas e mulheres, priorizando àquelas que são negras ou indígenas.",
+            "site": "https://minasprogramam.com/",
+            "linkedin":"https://www.linkedin.com/company/minasprogramam/"
           },
          {
             "_id": 7,
             "titulo": "Luiza Code",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "descricao": "Programa da Luizalabs com mais de 120h de conteúdos, com o objetivo de formar desenvolvedoras fullstack. Oportunidade de aprendizado: Lógica de programação, GIT, HTML, CSS e JS, Orientação a objetos, Banco de dados, Linguagem Java, Introdução a Devops, Cultura Ágil, Aula bônus de Inglês para programação. Possibilidade de contratação ao final do programa.",
+            "missao": "É o nome dado ao programa de formação em tecnologia, exclusivo para mulheres. Os treinamentos do Luiza <Code> possuem duração e ementa que variam dependendo do tipo de formação. Para essa edição, a formação será de 5 semanas na linguagem Java.",
+            "site": "https://corp.gama.academy/luiza-code/inscricao",
+            "linkedin":"https://www.linkedin.com/company/luizalabs/"
           },
          {
             "_id": 8,
-            "titulo": "iamthecode",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "titulo": "iamtheCODE",
+            "descricao": "iamtheCODE é o primeiro movimento global africano para mobilizar governos, o setor privado, fundações filântropicas, investidores e sociedade civil para avançar a educação em Ciência, Tecnologia, Engenharia, Artes, Matemática e Design. Sua meta é mobilizar esses grupos para investir nas tecnologias do futuro que pode levar ao desenvolvimento sustentável para mulheres e meninas em comunidades marginalizadas.",
+            "missao": "Construir uma geração de 1 milhão de mulheres e meninas programadoras até 2030.",
+            "site": "https://www.iamthecode.org/",
+            "linkedin":"https://www.linkedin.com/company/iamthecode/"
           },
          {
             "_id": 9,
             "titulo": "Women Who Code",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "descricao": "A maior e mais ativa comunidade de mulheres técnicas do mundo. A Women Who Code prepara esta geração de mulheres da área de tecnologia para serem os modelos de amanhã. Esta organização sem fins lucrativos global que começou como um grupo comunitário em 2011 e desde então cresceu para 290.000 membros em 134 países. O QUE NÓS FAZEMOS: Avançar as mulheres em suas carreiras, em cada etapa do caminho. Fornecer uma comunidade de 230.000 pessoas que se tornou um movimento de liderança em tecnologia. Construir líderes globais em tecnologia, mudando efetivamente a indústria. Oferecer poucas ou nenhumas barreiras à entrada a programas, eventos, bolsas de estudo e muito mais para mulheres para desenvolver competências em tecnologia e liderança.",
+             "missao": "Inspirar as mulheres a se destacarem nas carreiras de tecnologia.",
+            "site": "https://www.womenwhocode.com/",
+            "linkedin":"https://www.linkedin.com/company/women-who-code/"
           },
         {
             "_id": 10,
             "titulo": "Cloud Girls",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "descricao": "O Cloud Girls proporciona às suas participantes a possibilidade de aperfeiçoamento, recolocação, networking e muita diversão em um momento exclusivo para as mulheres.",
+             "missao": "O Cloud Girls realiza vários projetos com o intuito de capacitar mulheres e direcioná-las ao mercado de trabalho.",
+            "site": "https://www.cloudgirls.com.br/",
+            "linkedin":"https://www.linkedin.com/company/cloudgirlsin/"
           },
         {
             "_id": 11,
             "titulo": "WoMakersCode",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "descricao": "Maior comunidade de mulheres na tecnologia da América Latina. Fundada em 2015, para mostrar que tecnologia é, sim, lugar de mulher.",
+            "missao": "Fortalecer o protagonismo feminino na TI, através do desenvolvimento profissional e econômico",
+            "site": "https://womakerscode.org/",
+            "linkedin":"https://www.linkedin.com/company/womakerscode//"
           },
         {
             "_id": 12,
             "titulo": "PyLadies",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "descricao": "O PyLadies é um grupo internacional de mentoria com foco em incluir mais mulheres (cis, trans e não-binário) na comunidade de TI por meio da linguagem de programação Python. Na capital paulistana, o PyLadies São Paulo foi criado em 7 de setembro de 2015 e ministra cursos gratuitos de Python desde o básico – para quem não tem nenhum conhecimento de programação – até conteúdo mais avançado. Em dezembro de 2015, o PyLadies São Paulo foi um dos vencedores do Prêmio Mulheres Tech em Sampa, patrocinado pela Rede Mulher Empreendedora, Google Entrepreneurs e Tech Sampa.",
+            "missao": "PyLadies é uma comunidade mundial que foi trazida ao Brasil com o propósito de ajudar mais e mais mulheres a se tornarem participantes ativas e líderes na comunidade open source Python.",
+            "site": "https://brasil.pyladies.com/",
+            "linkedin":"https://www.linkedin.com/company/pyladiessp/"
           },
         {
             "_id": 13,
             "titulo": "Mulheres Agilistas",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "descricao": "Grupo de apoio às mulheres que estão inseridas ou que tem interesse em se inserir no mercado de trabalho Agile. ",
+             "missao": "Busca fortalecer e ampliar a comunidade feminina envolvida nos papéis de Scrum Master, Agile Coach e entusiastas da agilidade na luta por melhores resultados nas organizações que fazem parte, através do compartilhamento de conhecimento e apoio mútuo.",
+            "site": null,
+            "linkedin":"https://www.linkedin.com/company/mulheres-agilistas/"
           },
         {
             "_id": 14,
             "titulo": "Mulheres de Produto",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "descricao": "Comunidade que visa reunir todas as pessoas que se identificam como mulheres interessadas ou que já atuam na tecnologia, desenvolvendo produtos digitais. É uma comunidade de mulheres que se apoiam e que tem como pilar a Sororidade! Aqui você encontrará dicas de carreira, de eventos, sobre aberturas de submissão de palestras, sobre oportunidades de emprego, cursos e criação de artigos. O objetivo principal é criar um ambiente em que todas as mulheres em tecnologia se sintam bem vindas e possam falar de desafios e problemas que enfrentam diariamente. Um lugar onde a gente possa se ajudar em diversas áreas como maternidade, promoção, migração de carreira e tudo que for importante.",             
+            "missao": "Abrir as portas para que mais mulheres ingressem na área de Produto e Tecnologia, compartilhando experiências e mostrando caminhos de transição de carreira.",
+            "site": "https://mulheresdeproduto.com/",
+            "linkedin":"https://www.linkedin.com/company/mulheres-de-produto/"
           },
         {
             "_id": 15,
             "titulo": "Feministech",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "descricao": "Feministech, antiga Live Coder Girls BR, é um grupo de pessoas que se identificam no feminino e não binárias que compartilham conhecimento fazendo lives sobre tecnologia na Twitch.",
+             "missao": "Temos como objetivo aumentar a visibilidade dessas pessoas que fazem live coding e trazer mais pessoas que se identificam no feminino e pessoas não-binarias não apenas para esse cenário de live coding, mas também para a tecnologia em geral, dando suporte a quem está começando e ajudando quem está há mais tempo a crescer e atingir seus objetivos.",
+            "site": "https://www.twitch.tv/team/livecodergirls",
+            "linkedin":"https://www.linkedin.com/company/feministech/"
           },
-         {
-            "_id": 16,
-            "titulo": "Feministech",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
-          },
-         {
+          {
             "_id": 16,
             "titulo": "AI Girls",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "descricao": "Comunidade de tecnologia que visa o protagonismo feminino na área de inteligência artificial e ciência de dados, onde fornecemos meetups e workshops gratuitos para qualificar as mulheres para o mercado de trabalho.",
+            "missao": "Uma comunidade feminina de tecnologia que visa promover o protagonismo feminino na área de Inteligência Artificial e Ciência de Dados."
+            "site": null,
+            "linkedin":"https://www.linkedin.com/company/ai-girls/"
           },
          {
             "_id": 17,
             "titulo": "Brazilians in Tech",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "descricao": "A Brazilians in Tech é a primeira plataforma brasileira a reunir as oportunidades mais relevantes do mundo da Ciência e Tecnologia para mulheres trabalhando ou interessadas em tecnologias digitais. A Brazilians in Tech foi criada para acolher e incentivar mulheres a seguirem seus caminhos na área de tecnologia e computação.",
+            "missao": "Fortalecer a comunidade de brasileiras em tecnologia, encorajar e motivar brasileiras nessa área e dar visibilidade às brasileiras de destaque em áreas profissionais e acadêmicas.",
+            "site": "https://braziliansintech.com/",
+            "linkedin":"https://www.linkedin.com/company/braziliansintech/"
           },
          {
             "_id": 18,
             "titulo": "STEM para as minas",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "descricao": "Organização não governamental e sem fins lucrativos que tem como objetivo motivar minas a seguirem áreas científicas e tecnológicas através de divulgação de oportunidades afim de empoderá-las nessas áreas.",
+            "missao": "Levar oportunidades do mundo científico para mulheres e garotas com intuito de diminuir a desigualdade de gênero no Brasil no âmbito da pesquisa científica, nas olimpíadas de conhecimento, nas empresas de tecnologia, nos cursos de exatas, biológicas, tecnológico e nas engenharias, assim como nos ambientes de trabalhos ditos masculinos.Fortalecer as narrativas de meninas e mulheres que passaram por experiências no mundo das ciências como um incentivo para que outras tenham coragem de se aventurar nesses processos seletivos.Ampliar a variedade de oportunidades de cursos, capacitação, oficinas, workshops para mulheres que desejam entrar no mercado de trabalho ou se profissionalizar.",
+            "site": "https://www.stemparaminas.com/",
+            "linkedin":"https://www.linkedin.com/company/stemparaminas/"
           },
          {
             "_id": 19,
             "titulo": "ElasProgramam",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "descricao": "A engenheira Silvia Coelho criou a Elas Programam em 2017 com o objetivo de aumentar a participação de mulheres no mercado de tecnologia, que hoje representam apenas 20% dos profissionais desse setor. Trabalhamos os pilares de inspiração, senso de pertencimento e protagonismo com o objetivo de encorajar as mulheres a enfrentarem os estereótipos culturais de que tecnologia não é carreira para elas. Promovemos representatividade, conscientização do mercado e aceleração de carreira através de uma comunidade forte e engajada que hoje conta com mais de 17 mil seguidoras no instagram e 7800 participantes no grupo do facebook.Elas Programam conecta talentos femininos de tech a empresas e iniciativas que colaboram para o crescimento dos números de ocupação feminina e ajudam a contar histórias de sucesso nesse meio.Para mulheres que estão em busca de recolocação ou em processo de transição de carreira, oferecemos mentorias e orientação profissional, além de um ambiente seguro e acolhedor para troca de experiências.,
+             "missao": "Aumentar a presença de mulheres na tecnologia."
+            "site": "https://elasprogramam.com.br/#/",
+            "linkedin":"https://www.linkedin.com/company/elasprogramam/"
           },
-        {
-            "_id": 20,
-            "titulo": "Elas++",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
-          },
-         {
-            "_id": 21,
+          {
+            "_id": 20
             "titulo": "PodProgramar",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "descricao": "O PodProgramar é um podcast apresentado por Jessi Zanelato e Ana Eliza, desenvolvedoras, focado em programação, notícias e histórias da área, tudo com o toque feminino numa área dominada por homens.",
+             "missao": null,
+            "site": "https://podprogramar.com.br/",
+            "linkedin":"https://www.linkedin.com/company/podprogramar/"
           },
          {
-            "_id": 22,
+            "_id": 21
             "titulo": "StartCoding",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "descricao": "Start Coding é uma iniciativa que tem como objetivo inserir mulheres no setor da tecnologia e apoiar as que já estão, empoderando-as e oferecendo mais oportunidades de conhecimento.,
+            "missao": null
+            "site": null
+            "linkedin":"https://www.linkedin.com/company/start-coding/"
           },
          {
-            "_id": 23,
+            "_id": 22
             "titulo": "ADA - Todas na Avanade",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "descricao": "O ADA - Todas na Avanade é um movimento da mudança que queremos: mais mulheres na tecnologia, abrindo portas e mudando o mundo. Um programa inteiro dedicado a recrutar e dar oportunidade para que mulheres - sem distinção de origem social, étnico racial, pessoas com deficiência, crenças e religiões, identidade de gênero, diferentes gerações ou orientação sexual - tenham seu espaço e avancem cada vez mais.",
+             "missao": null
+            "site": "https://careers.avanade.com/jobsptbr/JobDetail/ADA-Todas-na-Avanade/26595",
+            "linkedin":"https://www.linkedin.com/company/avanade/"
           },
         {
-            "_id": 24,
+            "_id": 23
             "titulo": "Meninas em Tech",
-            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
-            "site": "https://www.programaria.org/",
-            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+            "descricao": "Meninas in Tech faz parte da ONG Fly Educação e busca aumentar o número de mulheres no mercado da tecnologia. O programa combina a capacitação em tecnologia com educação socioemocional e de soft skills. As aulas consistem em encontros onlines durante 4 meses e é preciso ter no mínimo 15 horas semanais direcionadas ao curso. Para participar, é necessário ter disponibilidade de frequentar as aulas e treinamentos às terças a noite, ou sábados de manhã. O curso é composto por: Aulas Socioemocionais ao vivo, Aulas de mercado ao vivo, Curso Tecnológico pela plataforma Alura e Mentorias para acompanhamento.",
+            "missao": "Aumentar o número de mulheres no mercado de tecnologia.",
+            "site": "https://www.flyeducacao.org/girls-in-tech",
+            "linkedin": null
           }        
         ]
 }
