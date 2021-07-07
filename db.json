@@ -1,12 +1,179 @@
 {
-    "livros": [
+    "iniciativas": [
          {
             "_id": 1,
             "titulo": "PrograMaria",
-            "descricao": "O livro não é dividido em capítulos. A poesia de Tatiana Nascimento traz diversidade temática, riqueza semântica, construções e neologismos que conferem identidade a seus poemas. Dinâmico e inovador, o conjunto de poesias é uma compilação de versos escritos entre 2009 e 2015 e, assim, carrega imensa diversidade.Esteticamente o livro combina seus conteúdos da seguinte maneira: os versos são chamados a uma luta ancestral que perdura na superfície do povo negro, e os poemas clamam por atitudes.",
-            "capa": "https://www.geledes.org.br/wp-content/uploads/2018/08/lundu.jpeg",
-            "autora":"Tatiana Nascimento",
-            "siteCompra": "https://docs.google.com/spreadsheets/d/1ufvy_3DgIs4XuIdGI4yL0FTud59rGOHo/edit#gid=495375947"
-          }
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+         {
+            "_id": 2,
+            "titulo": "Reprograma",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+         {
+            "_id": 3,
+            "titulo": "Instituto Rede Mulher Empreendedora",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+         {
+            "_id": 4,
+            "titulo": "Meninas Super Cientistas",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+         {
+            "_id": 5,
+            "titulo": "Laboratoria",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+         {
+            "_id": 6,
+            "titulo": "Minas Programam",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+         {
+            "_id": 7,
+            "titulo": "Luiza Code",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+         {
+            "_id": 8,
+            "titulo": "iamthecode",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+         {
+            "_id": 9,
+            "titulo": "Women Who Code",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+        {
+            "_id": 10,
+            "titulo": "Cloud Girls",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+        {
+            "_id": 11,
+            "titulo": "WoMakersCode",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+        {
+            "_id": 12,
+            "titulo": "PyLadies",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+        {
+            "_id": 13,
+            "titulo": "Mulheres Agilistas",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+        {
+            "_id": 14,
+            "titulo": "Mulheres de Produto",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+        {
+            "_id": 15,
+            "titulo": "Feministech",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+         {
+            "_id": 16,
+            "titulo": "Feministech",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+         {
+            "_id": 16,
+            "titulo": "AI Girls",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+         {
+            "_id": 17,
+            "titulo": "Brazilians in Tech",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+         {
+            "_id": 18,
+            "titulo": "STEM para as minas",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+         {
+            "_id": 19,
+            "titulo": "ElasProgramam",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+        {
+            "_id": 20,
+            "titulo": "Elas++",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+         {
+            "_id": 21,
+            "titulo": "PodProgramar",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+         {
+            "_id": 22,
+            "titulo": "StartCoding",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+         {
+            "_id": 23,
+            "titulo": "ADA - Todas na Avanade",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          },
+        {
+            "_id": 24,
+            "titulo": "Meninas em Tech",
+            "descricao": "Grupo com a missão de empoderar mulheres na tecnologia de diversas formas (cursos, debates, palestras, séries).",
+            "site": "https://www.programaria.org/",
+            "linkedin":"https://www.linkedin.com/company/programaria.org/"
+          }        
         ]
 }
