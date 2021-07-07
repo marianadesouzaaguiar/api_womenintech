@@ -125,7 +125,7 @@
             "titulo": "AI Girls",
             "descricao": "Comunidade de tecnologia que visa o protagonismo feminino na área de inteligência artificial e ciência de dados, onde fornecemos meetups e workshops gratuitos para qualificar as mulheres para o mercado de trabalho.",
             "missao": "Uma comunidade feminina de tecnologia que visa promover o protagonismo feminino na área de Inteligência Artificial e Ciência de Dados."
-            "site": null,
+            "site: "null,
             "linkedin":"https://www.linkedin.com/company/ai-girls/"
           },
          {
@@ -149,12 +149,12 @@
             "titulo": "ElasProgramam",
             "descricao": "A engenheira Silvia Coelho criou a Elas Programam em 2017 com o objetivo de aumentar a participação de mulheres no mercado de tecnologia, que hoje representam apenas 20% dos profissionais desse setor. Trabalhamos os pilares de inspiração, senso de pertencimento e protagonismo com o objetivo de encorajar as mulheres a enfrentarem os estereótipos culturais de que tecnologia não é carreira para elas. Promovemos representatividade, conscientização do mercado e aceleração de carreira através de uma comunidade forte e engajada que hoje conta com mais de 17 mil seguidoras no instagram e 7800 participantes no grupo do facebook.Elas Programam conecta talentos femininos de tech a empresas e iniciativas que colaboram para o crescimento dos números de ocupação feminina e ajudam a contar histórias de sucesso nesse meio.Para mulheres que estão em busca de recolocação ou em processo de transição de carreira, oferecemos mentorias e orientação profissional, além de um ambiente seguro e acolhedor para troca de experiências.,
              "missao": "Aumentar a presença de mulheres na tecnologia."
-            "site": "https://elasprogramam.com.br/#/",
+            "site: "https://elasprogramam.com.br/#/",
             "linkedin":"https://www.linkedin.com/company/elasprogramam/"
           },
           {
             "_id": 20
-            "titulo": "PodProgramar",
+            "titulo":  "PodProgramar",
             "descricao": "O PodProgramar é um podcast apresentado por Jessi Zanelato e Ana Eliza, desenvolvedoras, focado em programação, notícias e histórias da área, tudo com o toque feminino numa área dominada por homens.",
              "missao": null,
             "site": "https://podprogramar.com.br/",
@@ -164,12 +164,12 @@
             "_id": 21
             "titulo": "StartCoding",
             "descricao": "Start Coding é uma iniciativa que tem como objetivo inserir mulheres no setor da tecnologia e apoiar as que já estão, empoderando-as e oferecendo mais oportunidades de conhecimento.,
-            "missao": null
-            "site": null
-            "linkedin":"https://www.linkedin.com/company/start-coding/"
+            "missao: null
+            "site: null
+            "linkedin": "https://www.linkedin.com/company/start-coding/"
           },
          {
-            "_id": 22
+            "_id: 22
             "titulo": "ADA - Todas na Avanade",
             "descricao": "O ADA - Todas na Avanade é um movimento da mudança que queremos: mais mulheres na tecnologia, abrindo portas e mudando o mundo. Um programa inteiro dedicado a recrutar e dar oportunidade para que mulheres - sem distinção de origem social, étnico racial, pessoas com deficiência, crenças e religiões, identidade de gênero, diferentes gerações ou orientação sexual - tenham seu espaço e avancem cada vez mais.",
              "missao": null
