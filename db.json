@@ -62,21 +62,7 @@
             "descricao": "A maior e mais ativa comunidade de mulheres técnicas do mundo. A Women Who Code prepara esta geração de mulheres da área de tecnologia para serem os modelos de amanhã. Esta organização sem fins lucrativos global que começou como um grupo comunitário em 2011 e desde então cresceu para 290.000 membros em 134 países. O QUE NÓS FAZEMOS: Avançar as mulheres em suas carreiras, em cada etapa do caminho. Fornecer uma comunidade de 230.000 pessoas que se tornou um movimento de liderança em tecnologia. Construir líderes globais em tecnologia, mudando efetivamente a indústria. Oferecer poucas ou nenhumas barreiras à entrada a programas, eventos, bolsas de estudo e muito mais para mulheres para desenvolver competências em tecnologia e liderança.",
             "site": "https://www.womenwhocode.com/",
             "linkedin":"https://www.linkedin.com/company/women-who-code/"
-          },
-        {
-            "_id": 10,
-            "titulo": "Cloud Girls",
-            "descricao": "O Cloud Girls proporciona às suas participantes a possibilidade de aperfeiçoamento, recolocação, networking e muita diversão em um momento exclusivo para as mulheres.",
-            "site": "https://www.cloudgirls.com.br/",
-            "linkedin":"https://www.linkedin.com/company/cloudgirlsin/"
-          },
-        {
-            "_id": 11,
-            "titulo": "WoMakersCode",
-            "descricao": "Maior comunidade de mulheres na tecnologia da América Latina. Fundada em 2015, para mostrar que tecnologia é, sim, lugar de mulher.",
-            "site": "https://womakerscode.org/",
-            "linkedin":"https://www.linkedin.com/company/womakerscode//"
-          }       
+          }      
         ]
 }
         
