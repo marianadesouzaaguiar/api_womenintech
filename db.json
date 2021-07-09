@@ -76,49 +76,7 @@
             "descricao": "Maior comunidade de mulheres na tecnologia da América Latina. Fundada em 2015, para mostrar que tecnologia é, sim, lugar de mulher.",
             "site": "https://womakerscode.org/",
             "linkedin":"https://www.linkedin.com/company/womakerscode//"
-          },
-        {
-            "_id": 12,
-            "titulo": "PyLadies",
-            "descricao": "O PyLadies é um grupo internacional de mentoria com foco em incluir mais mulheres (cis, trans e não-binário) na comunidade de TI por meio da linguagem de programação Python. Na capital paulistana, o PyLadies São Paulo foi criado em 7 de setembro de 2015 e ministra cursos gratuitos de Python desde o básico – para quem não tem nenhum conhecimento de programação – até conteúdo mais avançado. Em dezembro de 2015, o PyLadies São Paulo foi um dos vencedores do Prêmio Mulheres Tech em Sampa, patrocinado pela Rede Mulher Empreendedora, Google Entrepreneurs e Tech Sampa.",
-            "site": "https://brasil.pyladies.com/",
-            "linkedin":"https://www.linkedin.com/company/pyladiessp/"
-          },
-        {
-            "_id": 13,
-            "titulo": "Mulheres Agilistas",
-            "descricao": "Grupo de apoio às mulheres que estão inseridas ou que tem interesse em se inserir no mercado de trabalho Agile. ",
-            "site": null,
-            "linkedin":"https://www.linkedin.com/company/mulheres-agilistas/"
-          },
-        {
-            "_id": 14,
-            "titulo": "Mulheres de Produto",
-            "descricao": "Comunidade que visa reunir todas as pessoas que se identificam como mulheres interessadas ou que já atuam na tecnologia, desenvolvendo produtos digitais. É uma comunidade de mulheres que se apoiam e que tem como pilar a Sororidade! Aqui você encontrará dicas de carreira, de eventos, sobre aberturas de submissão de palestras, sobre oportunidades de emprego, cursos e criação de artigos. O objetivo principal é criar um ambiente em que todas as mulheres em tecnologia se sintam bem vindas e possam falar de desafios e problemas que enfrentam diariamente. Um lugar onde a gente possa se ajudar em diversas áreas como maternidade, promoção, migração de carreira e tudo que for importante.",             
-            "site": "https://mulheresdeproduto.com/",
-            "linkedin":"https://www.linkedin.com/company/mulheres-de-produto/"
-          },
-        {
-            "_id": 15,
-            "titulo": "Feministech",
-            "descricao": "Feministech, antiga Live Coder Girls BR, é um grupo de pessoas que se identificam no feminino e não binárias que compartilham conhecimento fazendo lives sobre tecnologia na Twitch.",
-            "site": "https://www.twitch.tv/team/livecodergirls",
-            "linkedin":"https://www.linkedin.com/company/feministech/"
-          },
-          {
-            "_id": 16,
-            "titulo": "AI Girls",
-            "descricao": "Comunidade de tecnologia que visa o protagonismo feminino na área de inteligência artificial e ciência de dados, onde fornecemos meetups e workshops gratuitos para qualificar as mulheres para o mercado de trabalho.",
-            "site": null,
-            "linkedin":"https://www.linkedin.com/company/ai-girls/"
-          },
-         {
-            "_id": 17,
-            "titulo": "Brazilians in Tech",
-            "descricao": "A Brazilians in Tech é a primeira plataforma brasileira a reunir as oportunidades mais relevantes do mundo da Ciência e Tecnologia para mulheres trabalhando ou interessadas em tecnologias digitais. A Brazilians in Tech foi criada para acolher e incentivar mulheres a seguirem seus caminhos na área de tecnologia e computação.",
-            "site": "https://braziliansintech.com/",
-            "linkedin":"https://www.linkedin.com/company/braziliansintech/"
-          }          
+          }       
         ]
 }
         
