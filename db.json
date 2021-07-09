@@ -118,21 +118,7 @@
             "descricao": "A Brazilians in Tech é a primeira plataforma brasileira a reunir as oportunidades mais relevantes do mundo da Ciência e Tecnologia para mulheres trabalhando ou interessadas em tecnologias digitais. A Brazilians in Tech foi criada para acolher e incentivar mulheres a seguirem seus caminhos na área de tecnologia e computação.",
             "site": "https://braziliansintech.com/",
             "linkedin":"https://www.linkedin.com/company/braziliansintech/"
-          },
-         {
-            "_id": 18,
-            "titulo": "STEM para as minas",
-            "descricao": "Organização não governamental e sem fins lucrativos que tem como objetivo motivar minas a seguirem áreas científicas e tecnológicas através de divulgação de oportunidades afim de empoderá-las nessas áreas.",
-            "site": "https://www.stemparaminas.com/",
-            "linkedin":"https://www.linkedin.com/company/stemparaminas/"
-          },
-        {
-            "_id": 19,
-            "titulo":  "PodProgramar",
-            "descricao": "O PodProgramar é um podcast apresentado por Jessi Zanelato e Ana Eliza, desenvolvedoras, focado em programação, notícias e histórias da área, tudo com o toque feminino numa área dominada por homens.",
-            "site": "https://podprogramar.com.br/",
-            "linkedin":"https://www.linkedin.com/company/podprogramar/"
-          }         
+          }          
         ]
 }
         
