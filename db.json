@@ -4,55 +4,55 @@
             "_id": 1,
             "titulo": "PrograMaria",
             "descricao": "Para uma menina, o desafio de programar se inicia antes mesmo da tentativa de aprender. Faltam exemplos que inspirem e sobram preconceitos e estereótipos que desestimulam e reforçam a idéia de que a tecnologia é um campo masculino. Não se trata de falta de interesse ou de habilidade, a PrograMaria acredita que é preciso rever essas narrativas culturais que dizem o que a mulher pode ou não fazer, além de oferecer ferramentas e oportunidades para que elas aprendam.",
-            "site": "https://www.programaria.org/",
+            "site": "https://www.programaria.org/"
           },
          {
             "_id": 2,
             "titulo": "Reprograma",
             "descricao": "A {reprograma} é uma iniciativa de impacto social que foca em ensinar programação para mulheres cis e trans que não têm recursos e/ou oportunidades para aprender a programar.",
-            "site": "https://reprograma.com.br/",
+            "site": "https://reprograma.com.br/"
           },
          {
             "_id": 3,
             "titulo": "Instituto Rede Mulher Empreendedora",
             "descricao": "A primeira e maior rede de apoio ao empreendedorismo feminino do Brasil. Priorizamos a integração, capacitação e troca de conhecimento entre mulheres que possuem ou buscam o próprio negócio, espalhadas por todo o país.",
-            "site": "https://institutorme.org.br/",
+            "site": "https://institutorme.org.br/"
           },
          {
             "_id": 4,
             "titulo": "Meninas SuperCientistas",
             "descricao": "O Meninas SuperCientistas nasceu de uma iniciativa de alunas da Unicamp, com o objetivo de incentivar meninas a seguirem carreira na área de ciência. O evento é organizado por alunas, funcionárias e professoras da universidade desde 2019, e realiza atividades para 65 alunas do ensino fundamental II de escolas públicas e privadas (45 e 20 vagas, respectivamente), guiadas por cientistas mulheres. Desta forma, as meninas podem ter exemplos da atuação de mulheres na ciência e encontrarem modelos nos quais elas possam se inspirar e tomar como incentivo.",
-            "site": "https://www.ime.unicamp.br/meninassupercientistas/",
+            "site": "https://www.ime.unicamp.br/meninassupercientistas/"
           },
          {
             "_id": 5,
             "titulo": "Laboratoria",
             "descricao": "Formação de mulheres e preparação de organizações na construção de uma economia digital mais diversa, inclusiva e competitiva em toda América Latina. Organização social que está em constante evolução para maximizar nosso impacto na sociedade. Acreditamos que é possível transformar vidas e construir um futuro melhor por meio de mais mulheres na tecnologia. ",
-            "site": "https://www.laboratoria.la/br",
+            "site": "https://www.laboratoria.la/br"
           },
          {
             "_id": 6,
             "titulo": "Minas Programam",
             "descricao": "O Minas Programam foi fundado em 2015 por Ariane Cor, Fernanda Balbino e Bárbara Paes. O projeto surgiu da vontade de desconstruir estereótipos de gênero e de raça que influenciam nossa relação com as áreas de ciências, tecnologia e computação. Oferecemos oportunidades de aprendizado sobre programação para meninas e mulheres que querem aprender a programar, mas não sabem por onde começar.",
-            "site": "https://minasprogramam.com/",
+            "site": "https://minasprogramam.com/"
           },
          {
             "_id": 7,
             "titulo": "Luiza Code",
             "descricao": "Programa da Luizalabs com mais de 120h de conteúdos, com o objetivo de formar desenvolvedoras fullstack. Oportunidade de aprendizado: Lógica de programação, GIT, HTML, CSS e JS, Orientação a objetos, Banco de dados, Linguagem Java, Introdução a Devops, Cultura Ágil, Aula bônus de Inglês para programação. Possibilidade de contratação ao final do programa.",
-            "site": "https://corp.gama.academy/luiza-code/inscricao",
+            "site": "https://corp.gama.academy/luiza-code/inscricao"
           },
          {
             "_id": 8,
             "titulo": "iamtheCODE",
             "descricao": "iamtheCODE é o primeiro movimento global africano para mobilizar governos, o setor privado, fundações filântropicas, investidores e sociedade civil para avançar a educação em Ciência, Tecnologia, Engenharia, Artes, Matemática e Design. Sua meta é mobilizar esses grupos para investir nas tecnologias do futuro que pode levar ao desenvolvimento sustentável para mulheres e meninas em comunidades marginalizadas.",
-            "site": "https://www.iamthecode.org/",
+            "site": "https://www.iamthecode.org/"
           },
          {
             "_id": 9,
             "titulo": "Women Who Code",
             "descricao": "A maior e mais ativa comunidade de mulheres técnicas do mundo. A Women Who Code prepara esta geração de mulheres da área de tecnologia para serem os modelos de amanhã. Esta organização sem fins lucrativos global que começou como um grupo comunitário em 2011 e desde então cresceu para 290.000 membros em 134 países. O QUE NÓS FAZEMOS: Avançar as mulheres em suas carreiras, em cada etapa do caminho. Fornecer uma comunidade de 230.000 pessoas que se tornou um movimento de liderança em tecnologia. Construir líderes globais em tecnologia, mudando efetivamente a indústria. Oferecer poucas ou nenhumas barreiras à entrada a programas, eventos, bolsas de estudo e muito mais para mulheres para desenvolver competências em tecnologia e liderança.",
-            "site": "https://www.womenwhocode.com/",
+            "site": "https://www.womenwhocode.com/"
           }      
         ]
 }
